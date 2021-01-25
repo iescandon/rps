@@ -1,0 +1,7 @@
+.choiceBtn {
+	height: 100px;
+}
+
+.choiceBtn:hover {
+	cursor: pointer;
+}
